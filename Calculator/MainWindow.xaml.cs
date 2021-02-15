@@ -20,6 +20,10 @@ namespace Calculator
     /// </summary>
     public partial class MainWindow : Window
     {
+        /// <summary>
+        ///RRO - W0428722
+        /// Reference from : https://youtu.be/7YWz44JANEY
+        /// </summary>
         //"long" datatype to hold the size of the number.
         long number1 = 0;
         long number2 = 0;
